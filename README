@@ -1,0 +1,48 @@
+The easele project concerns itself with the 
+development an evolution of a mechanically 
+simple human computer interface (HCI).
+This HCI takes as its guiding principle the
+fact than the idea of user friendly is better
+stated as familiar.
+Familiarity implies a metaphor that is in common
+use by a significant body of people.
+Hence the desktop, common on many desktop
+computers, is a familiar model for people 
+who work at a desk.
+Rather than pick up an existing familar 
+metaphor this project will focus on developing
+a new metaphor which can be used widely.
+At first this sounds presumptuous, but this
+has happened before.
+The computer mouse is such an example.
+
+Another important example is the braille system.
+This has many similarities with the 
+technique presented here, the combination
+of two sets of three bits and mode changing.
+An important aspect of this technique is
+to develop an encoding for the latin characters.
+The braille encoding is a strong candidate.
+Note the use of mode changing characters in 
+braille, the <number follows> character.
+This special character indicates that a number
+follows and the blank character clears the
+special number mode.
+
+The technique I favor is one with echos to the
+night writing system of Barbier.
+Barbier's encoding was influenced by phonetics.
+A phonic technique is also used in shorthand.
+
+* fricatives = { v f th h s z sh } 
+* affricates = { l  } 
+* plosive = { b c d g j k p t   } 
+
+* vowels = { a e i o u }
+* nasal = { m n  } 
+* tap = {  } 
+* approximant = {  } 
+
+* punctuation = { <blank> comma period colon semicolon question exclamation  } 
+
+
